@@ -36,7 +36,6 @@ This is an educational project — it's not optimized for accuracy or deployment
 
 - `generate_labels.ipynb` — Create labeled CSV from image folders  
 - `custom_dataset.ipynb` — Load dataset, apply transforms, and train CNN  
-- `requirements.txt` — Dependencies used in the project  
 
 ---
 
